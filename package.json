@@ -1,0 +1,22 @@
+{
+  "name": "captcha-gen",
+  "version": "1.0.0",
+  "description": "Generate CAPTCHA Images",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekb-turtle/captcha-gen.git"
+  },
+  "keywords": [
+    "captcha",
+    "captcha-image"
+  ],
+  "author": "mekb-turtle",
+  "bugs": {
+    "url": "https://github.com/mekb-turtle/captcha-gen/issues"
+  },
+  "homepage": "https://github.com/mekb-turtle/captcha-gen#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
