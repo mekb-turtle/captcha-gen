@@ -1,5 +1,5 @@
 {
-  "name": "captcha-gen",
+  "name": "@mekb-turtle/captcha-gen",
   "version": "1.0.0",
   "description": "Generate CAPTCHA Images",
   "main": "index.js",
